@@ -1,4 +1,4 @@
-# 🧠-Mental-Health-Treatment-Prediction
+# 🧠Mental-Health-Treatment-Prediction
 📌 Project Overview
 
 This project focuses on predicting whether an individual is likely to seek mental health treatment based on their survey responses. The dataset is derived from a mental health survey that contains multiple features such as workplace environment, accessibility of mental health resources, employer support, and personal attitudes toward mental health.
